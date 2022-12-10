@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.about {
+  box-shadow: 0px 5px 20px 0px rgb(0 37 93 / 15%);
+  padding: 33px 30px 34px;
+}
+
+.card {
+  box-shadow: 0px 5px 20px 0px rgb(0 37 93 / 15%);
+}
+
+.card-bg-img {
+  aspect-ratio: 4/3;
+}
